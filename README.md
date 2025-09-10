@@ -35,7 +35,15 @@ A simple chat application built using **Node.js**, **Express**, **MongoDB**, and
    git clone https://github.com/yourusername/whatsapp-lite.git
    cd whatsapp-lite
 
-2.   Install Dependencies : npm install
-3. Start MongoDB : mongosh
-4. Run the Application : node index.js
-5. Open Your Browser and Navigate to : http://localhost:3000
+2.   Install Dependencies :
+      ```bash
+      npm install
+3. Start MongoDB :
+   ```bash
+   mongosh
+4. Run the Application :
+   ```bash
+   node index.js
+5. Open Your Browser and Navigate to :
+   ```bash
+   http://localhost:3000
